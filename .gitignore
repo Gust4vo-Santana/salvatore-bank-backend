@@ -19,6 +19,4 @@ npm-debug.log
 dist
 logs
 .env
-yarn.lock
-src/data-source.ts
 .vscode
